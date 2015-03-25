@@ -1,0 +1,1 @@
+ghci Test dist/build/c-src/native.o
